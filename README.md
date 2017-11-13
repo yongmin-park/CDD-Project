@@ -1,2 +1,2 @@
 # CDD-Project
-A repository for Concurrent Distributed Device Project
+A repository for Year 4 Concurrent Distributed Device Development Project
